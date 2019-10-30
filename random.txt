@@ -1,63 +1,166 @@
-spotify-this-song,"I Want it That Way"Venue Name: undefined
+spotify-this-song,"I Want it That Way"
 
-Venue Location: undefined
 
-Event Date: undefined
+
+
+
+
+
+
+
+Artist name: 50 cent
+
+Event number: 0
+
+Venue Name: HBF Park
+
+Venue City: Perth
+
+Venue Country: Australia
+
+Event Date: 2019-11-08T15:30:00-05:00
 ------------------------------------------------------------
 
-Venue Name: undefined
+Artist name: 50 cent
 
-Venue Location: undefined
+Event number: 1
 
-Event Date: undefined
+Venue Name: Marvel Stadium
+
+Venue City: Docklands
+
+Venue Country: Australia
+
+Event Date: 2019-11-09T16:00:00-05:00
 ------------------------------------------------------------
 
-Venue Name: undefined
+Artist name: 50 cent
 
-Venue Location: undefined
+Event number: 2
 
-Event Date: undefined
+Venue Name: Adelaide Showground
+
+Venue City: Wayville
+
+Venue Country: Australia
+
+Event Date: 2019-11-10T15:00:00-05:00
 ------------------------------------------------------------
 
-Venue Name: undefined
+Artist name: 50 cent
 
-Venue Location: undefined
+Event number: 3
 
-Event Date: undefined
+Venue Name: Brisbane Showgrounds
+
+Venue City: Bowen Hills
+
+Venue Country: Australia
+
+Event Date: 2019-11-15T15:30:00-05:00
 ------------------------------------------------------------
 
-Venue Name: undefined
+Artist name: 50 cent
 
-Venue Location: undefined
+Event number: 4
 
-Event Date: undefined
+Venue Name: GIANTS Stadium
+
+Venue City: Sydney Olympic Park
+
+Venue Country: Australia
+
+Event Date: 2019-11-16T16:00:00-05:00
 ------------------------------------------------------------
 
-Venue Name: undefined
+Artist name: 50 cent
 
-Venue Location: undefined
+Event number: 5
 
-Event Date: undefined
+Venue Name: Western Springs Stadium
+
+Venue City: Auckland
+
+Venue Country: New Zealand
+
+Event Date: 2019-11-17T16:00:00-05:00
 ------------------------------------------------------------
 
-Venue Name: undefined
+Artist name: 50 cent
 
-Venue Location: undefined
+Event number: 0
 
-Event Date: undefined
+Venue Name: HBF Park
+
+Venue City: Perth
+
+Venue Country: Australia
+
+Event Date: 2019-11-08T15:30:00-05:00
 ------------------------------------------------------------
 
-Venue Name: undefined
+Artist name: 50 cent
 
-Venue Location: undefined
+Event number: 2
 
-Event Date: undefined
+Venue Name: Adelaide Showground
+
+Venue City: Wayville
+
+Venue Country: Australia
+
+Event Date: 2019-11-10T15:00:00-05:00
 ------------------------------------------------------------
 
-Venue Name: undefined
+Artist name: 50 cent
 
-Venue Location: undefined
+Event number: 4
 
-Event Date: undefined
+Venue Name: GIANTS Stadium
+
+Venue City: Sydney Olympic Park
+
+Venue Country: Australia
+
+Event Date: 2019-11-16T16:00:00-05:00
+------------------------------------------------------------
+
+Artist name: 50 cent
+
+Event number: 3
+
+Venue Name: Brisbane Showgrounds
+
+Venue City: Bowen Hills
+
+Venue Country: Australia
+
+Event Date: 2019-11-15T15:30:00-05:00
+------------------------------------------------------------
+
+Artist name: 50 cent
+
+Event number: 1
+
+Venue Name: Marvel Stadium
+
+Venue City: Docklands
+
+Venue Country: Australia
+
+Event Date: 2019-11-09T16:00:00-05:00
+------------------------------------------------------------
+
+Artist name: 50 cent
+
+Event number: 5
+
+Venue Name: Western Springs Stadium
+
+Venue City: Auckland
+
+Venue Country: New Zealand
+
+Event Date: 2019-11-17T16:00:00-05:00
 ------------------------------------------------------------
 

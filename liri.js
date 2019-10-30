@@ -1,6 +1,7 @@
 require("dotenv").config();
 const keys = require("./keys.js");
 const axios = require("axios");
+const moment = require("moment")
 const fs = require("fs")
 const spotifyAPI = require("node-spotify-api")
 // var spotifyKeys = new Spotify(keys.spotify);
@@ -14,19 +15,33 @@ var bandEvent = function (artist) {
     var URL = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp";
 
     axios.get(URL).then(function(response) {
-        var jsonData = response.data;
-        console.log(response.data[0])
+        var jsonData = (response.data);
+        
 
-        var eventData = [
-            "Venue Name: " + jsonData.name,
-            "Venue Location: " + jsonData.location,
-            "Event Date: " + jsonData.date
-            ].join("\n\n");
+        for (var i=0; i < jsonData.length; i++){
+            
+            var venueName = jsonData[i].venue.name;
+            var venueCity = jsonData[i].venue.city;
+            var venueCountry = jsonData[i].venue.country
+            var eventTime = jsonData[i].datetime
+            var convertedDate = moment(eventTime).format()
 
-            fs.appendFile("random.txt", eventData + divider, function(err) {
-                if (err) throw err;
+            var eventData = [
+                "Artist Name: " + artist,
+                "Event Number: " + i,
+                "Venue Name: " + venueName,
+                "Venue City: " + venueCity,
+                "Venue Country: " + venueCountry,
+                "Event Date and Time: " + convertedDate
+                ].join("\n\n");
+            
                 console.log(eventData)
-            })
+
+                fs.appendFile("random.txt", eventData + divider, function(err) {
+                    if (err) throw err;
+                })
+        }
+
     });
 } 
 
