@@ -1,5 +1,20 @@
 spotify-this-song,"I Want it That Way"
 
+
+
+Artist Name: undefined
+
+Event Number: 0
+
+Venue Name: STAR LOUNGE
+
+Venue City: 東京都
+
+Venue Country: 日本
+
+Event Date and Time: 2019-11-23T00:30:00-05:00
+------------------------------------------------------------
+
 Title: The Shining
 
 Year Released: 13 Jun 1980
@@ -17,13 +32,43 @@ Plot: A family heads to an isolated hotel for the winter where a sinister presen
 Cast: Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers
 ------------------------------------------------------------
 
-Song Name: Shining Star
+Song Name: Beautiful Crazy
 
-Artist Name: Earth, Wind & Fire
+Artist Name: Luke Combs
 
-Album Name: That's The Way Of The World
+Album Name: This One's for You Too (Deluxe Edition)
 
-Spotify Link:  https://p.scdn.co/mp3-preview/4826dc0c324e562c2810137b967e34d998a0dec9?cid=7ca3997dc665487684259d618756cd68
+Spotify Link:  https://p.scdn.co/mp3-preview/46f30246879a353edb15e19f91eb63376053cace?cid=7ca3997dc665487684259d618756cd68
+------------------------------------------------------------
+
+Title: Mr. Nobody
+
+Year Released: 26 Sep 2013
+
+IMDB Rating: 7.8/10
+
+Rotten Tomatoes Rating: 67%
+
+Country/ies: Belgium, Germany, Canada, France, USA, UK
+
+Language: English, Mohawk
+
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+
+Cast: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+------------------------------------------------------------
+
+Artist Name: undefined
+
+Event Number: 0
+
+Venue Name: STAR LOUNGE
+
+Venue City: 東京都
+
+Venue Country: 日本
+
+Event Date and Time: 2019-11-23T00:30:00-05:00
 ------------------------------------------------------------
 
 Artist Name: 50 cent
@@ -41,6 +86,45 @@ Event Date and Time: 2019-11-08T15:30:00-05:00
 
 Artist Name: 50 cent
 
+Event Number: 4
+
+Venue Name: GIANTS Stadium
+
+Venue City: Sydney Olympic Park
+
+Venue Country: Australia
+
+Event Date and Time: 2019-11-16T16:00:00-05:00
+------------------------------------------------------------
+
+Artist Name: 50 cent
+
+Event Number: 5
+
+Venue Name: Western Springs Stadium
+
+Venue City: Auckland
+
+Venue Country: New Zealand
+
+Event Date and Time: 2019-11-17T16:00:00-05:00
+------------------------------------------------------------
+
+Artist Name: 50 cent
+
+Event Number: 3
+
+Venue Name: Brisbane Showgrounds
+
+Venue City: Bowen Hills
+
+Venue Country: Australia
+
+Event Date and Time: 2019-11-15T15:30:00-05:00
+------------------------------------------------------------
+
+Artist Name: 50 cent
+
 Event Number: 1
 
 Venue Name: Marvel Stadium
@@ -54,6 +138,32 @@ Event Date and Time: 2019-11-09T16:00:00-05:00
 
 Artist Name: 50 cent
 
+Event Number: 2
+
+Venue Name: Adelaide Showground
+
+Venue City: Wayville
+
+Venue Country: Australia
+
+Event Date and Time: 2019-11-10T15:00:00-05:00
+------------------------------------------------------------
+
+Artist Name: 50 cent
+
+Event Number: 0
+
+Venue Name: HBF Park
+
+Venue City: Perth
+
+Venue Country: Australia
+
+Event Date and Time: 2019-11-08T15:30:00-05:00
+------------------------------------------------------------
+
+Artist Name: 50 cent
+
 Event Number: 4
 
 Venue Name: GIANTS Stadium
@@ -63,6 +173,19 @@ Venue City: Sydney Olympic Park
 Venue Country: Australia
 
 Event Date and Time: 2019-11-16T16:00:00-05:00
+------------------------------------------------------------
+
+Artist Name: 50 cent
+
+Event Number: 5
+
+Venue Name: Western Springs Stadium
+
+Venue City: Auckland
+
+Venue Country: New Zealand
+
+Event Date and Time: 2019-11-17T16:00:00-05:00
 ------------------------------------------------------------
 
 Artist Name: 50 cent
@@ -93,187 +216,274 @@ Event Date and Time: 2019-11-15T15:30:00-05:00
 
 Artist Name: 50 cent
 
+Event Number: 1
+
+Venue Name: Marvel Stadium
+
+Venue City: Docklands
+
+Venue Country: Australia
+
+Event Date and Time: 2019-11-09T16:00:00-05:00
+------------------------------------------------------------
+
+Artist Name: umphreys mcgee
+
+Event Number: 0
+
+Venue Name: The Foundry at The Fillmore
+
+Venue City: Philadelphia
+
+Venue Country: United States
+
+Event Date and Time: 2019-11-01T19:00:00-04:00
+------------------------------------------------------------
+
+Artist Name: umphreys mcgee
+
+Event Number: 4
+
+Venue Name: Fillmore Auditorium
+
+Venue City: Denver
+
+Venue Country: United States
+
+Event Date and Time: 2019-12-28T19:00:00-05:00
+------------------------------------------------------------
+
+Artist Name: umphreys mcgee
+
 Event Number: 5
 
-Venue Name: Western Springs Stadium
+Venue Name: Fillmore Auditorium
 
-Venue City: Auckland
+Venue City: Denver
 
-Venue Country: New Zealand
+Venue Country: United States
 
-Event Date and Time: 2019-11-17T16:00:00-05:00
+Event Date and Time: 2019-12-30T19:00:00-05:00
 ------------------------------------------------------------
 
-Song Name: Hotel California - 2013 Remaster
+Artist Name: umphreys mcgee
 
-Artist Name: Eagles
+Event Number: 6
 
-Album Name: Hotel California (2013 Remaster)
+Venue Name: Fillmore Auditorium
 
-Spotify Link:  https://p.scdn.co/mp3-preview/50e82c99c20ffa4223e82250605bbd8500cb3928?cid=7ca3997dc665487684259d618756cd68
+Venue City: Denver
+
+Venue Country: United States
+
+Event Date and Time: 2019-12-31T19:00:00-05:00
 ------------------------------------------------------------
 
-Title: This Shining Night
+Artist Name: umphreys mcgee
 
-Year Released: N/A
+Event Number: 7
 
-Country/ies: USA
+Venue Name: Sony Hall
 
-Language: English
+Venue City: New York
 
-Plot: N/A
+Venue Country: United States
 
-Cast: Eric Roberts, Kevin Brown, Olivia Aupperlee, Ereka Lin
+Event Date and Time: 2020-01-17T21:00:00-05:00
 ------------------------------------------------------------
 
-Title: The Shining
+Artist Name: umphreys mcgee
 
-Year Released: 13 Jun 1980
+Event Number: 8
 
-IMDB Rating: 8.4/10
+Venue Name: Beacon Theatre
 
-Rotten Tomatoes Rating: 85%
+Venue City: New York
 
-Country/ies: UK, USA
+Venue Country: United States
 
-Language: English
-
-Plot: A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.
-
-Cast: Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers
+Event Date and Time: 2020-01-18T21:00:00-05:00
 ------------------------------------------------------------
 
-Song Name: Don't
+Artist Name: umphreys mcgee
 
-Artist Name: Bryson Tiller
+Event Number: 9
 
-Album Name: T R A P S O U L
+Venue Name: Penn's Peak
 
-Spotify Link:  https://p.scdn.co/mp3-preview/1e41c4b05fa5ccbdc8fcb296cead7d7175a23ae5?cid=7ca3997dc665487684259d618756cd68
+Venue City: Jim Thorpe
+
+Venue Country: United States
+
+Event Date and Time: 2020-01-23T19:00:00-05:00
 ------------------------------------------------------------
 
-Song Name: Sweet Child O' Mine
+Artist Name: umphreys mcgee
 
-Artist Name: Guns N' Roses
+Event Number: 10
 
-Album Name: Appetite For Destruction
+Venue Name: Stage AE
 
-Spotify Link:  null
+Venue City: Pittsburgh
+
+Venue Country: United States
+
+Event Date and Time: 2020-01-24T18:00:00-05:00
 ------------------------------------------------------------
 
-Song Name: To a T
+Artist Name: umphreys mcgee
 
-Artist Name: Ryan Hurd
+Event Number: 11
 
-Album Name: To a T
+Venue Name: Express Live!
 
-Spotify Link:  https://p.scdn.co/mp3-preview/056015bc190683046b2a48211c346be0a774916e?cid=7ca3997dc665487684259d618756cd68
+Venue City: Columbus
+
+Venue Country: United States
+
+Event Date and Time: 2020-01-25T18:00:00-05:00
 ------------------------------------------------------------
 
-Song Name: To a T
+Artist Name: umphreys mcgee
 
-Artist Name: Ryan Hurd
+Event Number: 12
 
-Album Name: To a T
+Venue Name: The Clyde theater
 
-Spotify Link:  https://p.scdn.co/mp3-preview/056015bc190683046b2a48211c346be0a774916e?cid=7ca3997dc665487684259d618756cd68
+Venue City: Fort Wayne
+
+Venue Country: United States
+
+Event Date and Time: 2020-01-29T19:00:00-05:00
 ------------------------------------------------------------
 
-Song Name: To a T
+Artist Name: umphreys mcgee
 
-Artist Name: Ryan Hurd
+Event Number: 13
 
-Album Name: To a T
+Venue Name: MGM Northfield Park - Center Stage (formerly Hard Rock Live)
 
-Spotify Link:  https://p.scdn.co/mp3-preview/056015bc190683046b2a48211c346be0a774916e?cid=7ca3997dc665487684259d618756cd68
+Venue City: Northfield
+
+Venue Country: United States
+
+Event Date and Time: 2020-01-30T19:00:00-05:00
 ------------------------------------------------------------
 
-Song Name: To a T
+Artist Name: umphreys mcgee
 
-Artist Name: Ryan Hurd
+Event Number: 14
 
-Album Name: To a T
+Venue Name: The Fillmore Detroit presented by Cricket Wireless
 
-Spotify Link:  https://p.scdn.co/mp3-preview/056015bc190683046b2a48211c346be0a774916e?cid=7ca3997dc665487684259d618756cd68
+Venue City: Detroit
+
+Venue Country: United States
+
+Event Date and Time: 2020-01-31T18:00:00-05:00
 ------------------------------------------------------------
 
-Song Name: Sign of the Times
+Artist Name: umphreys mcgee
 
-Artist Name: Harry Styles
+Event Number: 15
 
-Album Name: Harry Styles
+Venue Name: The Fillmore Detroit presented by Cricket Wireless
 
-Spotify Link:  https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=7ca3997dc665487684259d618756cd68
+Venue City: Detroit
+
+Venue Country: United States
+
+Event Date and Time: 2020-02-01T18:00:00-05:00
 ------------------------------------------------------------
 
-Song Name: Sign of the Times
+Artist Name: umphreys mcgee
 
-Artist Name: Harry Styles
+Event Number: 16
 
-Album Name: Harry Styles
+Venue Name: Soundstage at Graceland
 
-Spotify Link:  https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=7ca3997dc665487684259d618756cd68
+Venue City: Memphis
+
+Venue Country: United States
+
+Event Date and Time: 2020-02-12T19:00:00-05:00
 ------------------------------------------------------------
 
-Song Name: Sign of the Times
+Artist Name: umphreys mcgee
 
-Artist Name: Harry Styles
+Event Number: 17
 
-Album Name: Harry Styles
+Venue Name: The Caverns
 
-Spotify Link:  https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=7ca3997dc665487684259d618756cd68
+Venue City: Pelham
+
+Venue Country: United States
+
+Event Date and Time: 2020-02-13T20:00:00-05:00
 ------------------------------------------------------------
 
-Song Name: Sign of the Times
+Artist Name: umphreys mcgee
 
-Artist Name: Harry Styles
+Event Number: 18
 
-Album Name: Harry Styles
+Venue Name: U.S. Cellular Center Asheville
 
-Spotify Link:  https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=7ca3997dc665487684259d618756cd68
+Venue City: Asheville
+
+Venue Country: United States
+
+Event Date and Time: 2020-02-14T18:30:00-05:00
 ------------------------------------------------------------
 
-Song Name: In Da Club
+Artist Name: umphreys mcgee
 
-Artist Name: 50 Cent
+Event Number: 19
 
-Album Name: Get Rich Or Die Tryin'
+Venue Name: U.S. Cellular Center Asheville
 
-Spotify Link:  null
+Venue City: Asheville
+
+Venue Country: United States
+
+Event Date and Time: 2020-02-15T18:30:00-05:00
 ------------------------------------------------------------
 
-Song Name: Ace In The Hole
+Artist Name: umphreys mcgee
 
-Artist Name: 3rd Bass
+Event Number: 3
 
-Album Name: Derelicts Of Dialect
+Venue Name: Fillmore Auditorium
 
-Spotify Link:  null
+Venue City: Denver
+
+Venue Country: United States
+
+Event Date and Time: 2019-12-27T19:00:00-05:00
 ------------------------------------------------------------
 
-Song Name: Ace In The Hole
+Artist Name: umphreys mcgee
 
-Artist Name: 3rd Bass
+Event Number: 2
 
-Album Name: Derelicts Of Dialect
+Venue Name: The Woodlands Festival
 
-Spotify Link:  null
+Venue City: Charleston
+
+Venue Country: United States
+
+Event Date and Time: 2019-11-08T19:00:00-05:00
 ------------------------------------------------------------
 
-Title: Mr. Nobody
+Artist Name: umphreys mcgee
 
-Year Released: 26 Sep 2013
+Event Number: 1
 
-IMDB Rating: 7.8/10
+Venue Name: The Foundry at The Fillmore
 
-Rotten Tomatoes Rating: 67%
+Venue City: Philadelphia
 
-Country/ies: Belgium, Germany, Canada, France, USA, UK
+Venue Country: United States
 
-Language: English, Mohawk
-
-Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
-
-Cast: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Event Date and Time: 2019-11-02T19:00:00-04:00
 ------------------------------------------------------------
 

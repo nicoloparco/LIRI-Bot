@@ -132,7 +132,7 @@ function doThing () {
 
 switch (command) {
     case ('concert-this'):
-        bandsSearch();
+        bandsSearch(search);
     break;
     case ('spotify-this-song'):
         if(search){
