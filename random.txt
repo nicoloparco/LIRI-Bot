@@ -1,166 +1,29 @@
 spotify-this-song,"I Want it That Way"
 
+Song Name: The Sign
 
+Artist Name: Ace of Base
 
+Album Name: The Sign (US Album) [Remastered]
 
-
-
-
-
-
-Artist name: 50 cent
-
-Event number: 0
-
-Venue Name: HBF Park
-
-Venue City: Perth
-
-Venue Country: Australia
-
-Event Date: 2019-11-08T15:30:00-05:00
+Spotify Link:  + <a href="https://api.spotify.com/v1/tracks/0hrBpAOgrt8RXigk83LLNE></a>
 ------------------------------------------------------------
 
-Artist name: 50 cent
+Song Name: The Sign
 
-Event number: 1
+Artist Name: Ace of Base
 
-Venue Name: Marvel Stadium
+Album Name: The Sign (US Album) [Remastered]
 
-Venue City: Docklands
-
-Venue Country: Australia
-
-Event Date: 2019-11-09T16:00:00-05:00
+Spotify Link:  https://api.spotify.com/v1/tracks/0hrBpAOgrt8RXigk83LLNE
 ------------------------------------------------------------
 
-Artist name: 50 cent
+Song Name: The Sign
 
-Event number: 2
+Artist Name: Ace of Base
 
-Venue Name: Adelaide Showground
+Album Name: The Sign (US Album) [Remastered]
 
-Venue City: Wayville
-
-Venue Country: Australia
-
-Event Date: 2019-11-10T15:00:00-05:00
-------------------------------------------------------------
-
-Artist name: 50 cent
-
-Event number: 3
-
-Venue Name: Brisbane Showgrounds
-
-Venue City: Bowen Hills
-
-Venue Country: Australia
-
-Event Date: 2019-11-15T15:30:00-05:00
-------------------------------------------------------------
-
-Artist name: 50 cent
-
-Event number: 4
-
-Venue Name: GIANTS Stadium
-
-Venue City: Sydney Olympic Park
-
-Venue Country: Australia
-
-Event Date: 2019-11-16T16:00:00-05:00
-------------------------------------------------------------
-
-Artist name: 50 cent
-
-Event number: 5
-
-Venue Name: Western Springs Stadium
-
-Venue City: Auckland
-
-Venue Country: New Zealand
-
-Event Date: 2019-11-17T16:00:00-05:00
-------------------------------------------------------------
-
-Artist name: 50 cent
-
-Event number: 0
-
-Venue Name: HBF Park
-
-Venue City: Perth
-
-Venue Country: Australia
-
-Event Date: 2019-11-08T15:30:00-05:00
-------------------------------------------------------------
-
-Artist name: 50 cent
-
-Event number: 2
-
-Venue Name: Adelaide Showground
-
-Venue City: Wayville
-
-Venue Country: Australia
-
-Event Date: 2019-11-10T15:00:00-05:00
-------------------------------------------------------------
-
-Artist name: 50 cent
-
-Event number: 4
-
-Venue Name: GIANTS Stadium
-
-Venue City: Sydney Olympic Park
-
-Venue Country: Australia
-
-Event Date: 2019-11-16T16:00:00-05:00
-------------------------------------------------------------
-
-Artist name: 50 cent
-
-Event number: 3
-
-Venue Name: Brisbane Showgrounds
-
-Venue City: Bowen Hills
-
-Venue Country: Australia
-
-Event Date: 2019-11-15T15:30:00-05:00
-------------------------------------------------------------
-
-Artist name: 50 cent
-
-Event number: 1
-
-Venue Name: Marvel Stadium
-
-Venue City: Docklands
-
-Venue Country: Australia
-
-Event Date: 2019-11-09T16:00:00-05:00
-------------------------------------------------------------
-
-Artist name: 50 cent
-
-Event number: 5
-
-Venue Name: Western Springs Stadium
-
-Venue City: Auckland
-
-Venue Country: New Zealand
-
-Event Date: 2019-11-17T16:00:00-05:00
+Spotify Link:  https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=7ca3997dc665487684259d618756cd68
 ------------------------------------------------------------
 

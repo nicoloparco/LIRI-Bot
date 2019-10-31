@@ -3,8 +3,8 @@ const keys = require("./keys.js");
 const axios = require("axios");
 const moment = require("moment")
 const fs = require("fs")
-const spotifyAPI = require("node-spotify-api")
-// var spotifyKeys = new Spotify(keys.spotify);
+const Spotify = require("node-spotify-api")
+var spotify = new Spotify(keys.spotify);
 var divider = "\n------------------------------------------------------------\n\n"
 
 
@@ -45,7 +45,41 @@ var bandEvent = function (artist) {
     });
 } 
 
-
-
 var band = new bandEvent();
+
+//Spotify
+var spotifySearch = function (song) {
+
+    var song = process.argv.slice(3).join(" ")
+   
+    spotify.search({type: "track", query: song, limit: 1}, function(err, data) {
+        if (err) {
+          return console.log('Error occurred: ' + err);
+        }
+
+        var jsonData = (data.tracks.items[0])
+        var songName = jsonData.name
+        var artistsName = jsonData.artists[0].name
+        var albumName = jsonData.album.name
+        var spotifyLink = jsonData.preview_url
+
+        var songData = [
+            "Song Name: " + songName,
+            "Artist Name: " + artistsName,
+            "Album Name: " + albumName,
+            "Spotify Link:  " + spotifyLink
+        ].join("\n\n");
+        
+        console.log(songData)
+
+        fs.appendFile("random.txt", songData + divider, function(err) {
+            if (err) throw err
+        })
+
+    })
+    
+}
+
+var song = new spotifySearch();
+
 
