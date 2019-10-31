@@ -26,3 +26,254 @@ Album Name: That's The Way Of The World
 Spotify Link:  https://p.scdn.co/mp3-preview/4826dc0c324e562c2810137b967e34d998a0dec9?cid=7ca3997dc665487684259d618756cd68
 ------------------------------------------------------------
 
+Artist Name: 50 cent
+
+Event Number: 0
+
+Venue Name: HBF Park
+
+Venue City: Perth
+
+Venue Country: Australia
+
+Event Date and Time: 2019-11-08T15:30:00-05:00
+------------------------------------------------------------
+
+Artist Name: 50 cent
+
+Event Number: 1
+
+Venue Name: Marvel Stadium
+
+Venue City: Docklands
+
+Venue Country: Australia
+
+Event Date and Time: 2019-11-09T16:00:00-05:00
+------------------------------------------------------------
+
+Artist Name: 50 cent
+
+Event Number: 4
+
+Venue Name: GIANTS Stadium
+
+Venue City: Sydney Olympic Park
+
+Venue Country: Australia
+
+Event Date and Time: 2019-11-16T16:00:00-05:00
+------------------------------------------------------------
+
+Artist Name: 50 cent
+
+Event Number: 2
+
+Venue Name: Adelaide Showground
+
+Venue City: Wayville
+
+Venue Country: Australia
+
+Event Date and Time: 2019-11-10T15:00:00-05:00
+------------------------------------------------------------
+
+Artist Name: 50 cent
+
+Event Number: 3
+
+Venue Name: Brisbane Showgrounds
+
+Venue City: Bowen Hills
+
+Venue Country: Australia
+
+Event Date and Time: 2019-11-15T15:30:00-05:00
+------------------------------------------------------------
+
+Artist Name: 50 cent
+
+Event Number: 5
+
+Venue Name: Western Springs Stadium
+
+Venue City: Auckland
+
+Venue Country: New Zealand
+
+Event Date and Time: 2019-11-17T16:00:00-05:00
+------------------------------------------------------------
+
+Song Name: Hotel California - 2013 Remaster
+
+Artist Name: Eagles
+
+Album Name: Hotel California (2013 Remaster)
+
+Spotify Link:  https://p.scdn.co/mp3-preview/50e82c99c20ffa4223e82250605bbd8500cb3928?cid=7ca3997dc665487684259d618756cd68
+------------------------------------------------------------
+
+Title: This Shining Night
+
+Year Released: N/A
+
+Country/ies: USA
+
+Language: English
+
+Plot: N/A
+
+Cast: Eric Roberts, Kevin Brown, Olivia Aupperlee, Ereka Lin
+------------------------------------------------------------
+
+Title: The Shining
+
+Year Released: 13 Jun 1980
+
+IMDB Rating: 8.4/10
+
+Rotten Tomatoes Rating: 85%
+
+Country/ies: UK, USA
+
+Language: English
+
+Plot: A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.
+
+Cast: Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers
+------------------------------------------------------------
+
+Song Name: Don't
+
+Artist Name: Bryson Tiller
+
+Album Name: T R A P S O U L
+
+Spotify Link:  https://p.scdn.co/mp3-preview/1e41c4b05fa5ccbdc8fcb296cead7d7175a23ae5?cid=7ca3997dc665487684259d618756cd68
+------------------------------------------------------------
+
+Song Name: Sweet Child O' Mine
+
+Artist Name: Guns N' Roses
+
+Album Name: Appetite For Destruction
+
+Spotify Link:  null
+------------------------------------------------------------
+
+Song Name: To a T
+
+Artist Name: Ryan Hurd
+
+Album Name: To a T
+
+Spotify Link:  https://p.scdn.co/mp3-preview/056015bc190683046b2a48211c346be0a774916e?cid=7ca3997dc665487684259d618756cd68
+------------------------------------------------------------
+
+Song Name: To a T
+
+Artist Name: Ryan Hurd
+
+Album Name: To a T
+
+Spotify Link:  https://p.scdn.co/mp3-preview/056015bc190683046b2a48211c346be0a774916e?cid=7ca3997dc665487684259d618756cd68
+------------------------------------------------------------
+
+Song Name: To a T
+
+Artist Name: Ryan Hurd
+
+Album Name: To a T
+
+Spotify Link:  https://p.scdn.co/mp3-preview/056015bc190683046b2a48211c346be0a774916e?cid=7ca3997dc665487684259d618756cd68
+------------------------------------------------------------
+
+Song Name: To a T
+
+Artist Name: Ryan Hurd
+
+Album Name: To a T
+
+Spotify Link:  https://p.scdn.co/mp3-preview/056015bc190683046b2a48211c346be0a774916e?cid=7ca3997dc665487684259d618756cd68
+------------------------------------------------------------
+
+Song Name: Sign of the Times
+
+Artist Name: Harry Styles
+
+Album Name: Harry Styles
+
+Spotify Link:  https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=7ca3997dc665487684259d618756cd68
+------------------------------------------------------------
+
+Song Name: Sign of the Times
+
+Artist Name: Harry Styles
+
+Album Name: Harry Styles
+
+Spotify Link:  https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=7ca3997dc665487684259d618756cd68
+------------------------------------------------------------
+
+Song Name: Sign of the Times
+
+Artist Name: Harry Styles
+
+Album Name: Harry Styles
+
+Spotify Link:  https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=7ca3997dc665487684259d618756cd68
+------------------------------------------------------------
+
+Song Name: Sign of the Times
+
+Artist Name: Harry Styles
+
+Album Name: Harry Styles
+
+Spotify Link:  https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=7ca3997dc665487684259d618756cd68
+------------------------------------------------------------
+
+Song Name: In Da Club
+
+Artist Name: 50 Cent
+
+Album Name: Get Rich Or Die Tryin'
+
+Spotify Link:  null
+------------------------------------------------------------
+
+Song Name: Ace In The Hole
+
+Artist Name: 3rd Bass
+
+Album Name: Derelicts Of Dialect
+
+Spotify Link:  null
+------------------------------------------------------------
+
+Song Name: Ace In The Hole
+
+Artist Name: 3rd Bass
+
+Album Name: Derelicts Of Dialect
+
+Spotify Link:  null
+------------------------------------------------------------
+
+Title: Mr. Nobody
+
+Year Released: 26 Sep 2013
+
+IMDB Rating: 7.8/10
+
+Rotten Tomatoes Rating: 67%
+
+Country/ies: Belgium, Germany, Canada, France, USA, UK
+
+Language: English, Mohawk
+
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+
+Cast: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+------------------------------------------------------------
+

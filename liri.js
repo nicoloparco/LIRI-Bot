@@ -6,12 +6,13 @@ const fs = require("fs")
 const Spotify = require("node-spotify-api")
 var spotify = new Spotify(keys.spotify);
 var divider = "\n------------------------------------------------------------\n\n"
+var command = process.argv[2]
+var search = process.argv.slice(3).join(" ")
 
 
 //BandsInTown
-var bandsSearch = function (artist) {
+function bandsSearch (artist) {
     
-    var artist = process.argv.slice(3).join(" ");
     var URL = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp";
 
     axios.get(URL).then(function(response) {
@@ -45,14 +46,12 @@ var bandsSearch = function (artist) {
     });
 } 
 
-var band = new bandsSearch();
 
 //Spotify
-var spotifySearch = function (song) {
+function spotifySearch (song) {
 
-    var song = process.argv.slice(3).join(" ")
    
-    spotify.search({type: "track", query: song, limit: 1}, function(err, response) {
+    spotify.search({type: "track", query: song}, function(err, response) {
         if (err) {
           return console.log('Error occurred: ' + err);
         }
@@ -80,12 +79,10 @@ var spotifySearch = function (song) {
     
 }
 
-var song = new spotifySearch();
 
 //OMDB API
-var movieSearch = function (movie) {
+function movieSearch (movie) {
 
-    var movie = process.argv.slice(3).join(" ")
     var URL = "http://www.omdbapi.com/?apikey=trilogy&t=" + movie
 
     axios.get(URL).then(function (response) {
@@ -122,7 +119,40 @@ var movieSearch = function (movie) {
 
 }
 
-var movie = new movieSearch();
+//FS Action
+function doThing () {
+    fs.readFile("random.txt", "utf8", function (error, data) {
+        var text = data.split(" , ")
+        console.log(text[0])
+        spotifySearch(text)
+    })
 
+}
+
+
+switch (command) {
+    case ('concert-this'):
+        bandsSearch();
+    break;
+    case ('spotify-this-song'):
+        if(search){
+            spotifySearch(search);
+         } else{
+            spotifySearch("The Sign Ace Of Bass");
+         }
+    break;
+    case ('movie-this'):
+        if(search){
+            movieSearch(search);
+        } else{
+            movieSearch("Mr Nobody");
+        }
+    break;
+    case ('do-what-it-says'):
+         doThing();
+    break;
+    default:
+        console.log('Try again')
+}
 
 
