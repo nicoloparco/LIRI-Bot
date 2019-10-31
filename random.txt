@@ -1,29 +1,28 @@
 spotify-this-song,"I Want it That Way"
 
-Song Name: The Sign
+Title: The Shining
 
-Artist Name: Ace of Base
+Year Released: 13 Jun 1980
 
-Album Name: The Sign (US Album) [Remastered]
+IMDB Rating: 8.4/10
 
-Spotify Link:  + <a href="https://api.spotify.com/v1/tracks/0hrBpAOgrt8RXigk83LLNE></a>
+Rotten Tomatoes Rating: 85%
+
+Country/ies: UK, USA
+
+Language: English
+
+Plot: A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.
+
+Cast: Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers
 ------------------------------------------------------------
 
-Song Name: The Sign
+Song Name: Shining Star
 
-Artist Name: Ace of Base
+Artist Name: Earth, Wind & Fire
 
-Album Name: The Sign (US Album) [Remastered]
+Album Name: That's The Way Of The World
 
-Spotify Link:  https://api.spotify.com/v1/tracks/0hrBpAOgrt8RXigk83LLNE
-------------------------------------------------------------
-
-Song Name: The Sign
-
-Artist Name: Ace of Base
-
-Album Name: The Sign (US Album) [Remastered]
-
-Spotify Link:  https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=7ca3997dc665487684259d618756cd68
+Spotify Link:  https://p.scdn.co/mp3-preview/4826dc0c324e562c2810137b967e34d998a0dec9?cid=7ca3997dc665487684259d618756cd68
 ------------------------------------------------------------
 

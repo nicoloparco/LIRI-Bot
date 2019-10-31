@@ -9,7 +9,7 @@ var divider = "\n------------------------------------------------------------\n\
 
 
 //BandsInTown
-var bandEvent = function (artist) {
+var bandsSearch = function (artist) {
     
     var artist = process.argv.slice(3).join(" ");
     var URL = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp";
@@ -45,19 +45,19 @@ var bandEvent = function (artist) {
     });
 } 
 
-var band = new bandEvent();
+var band = new bandsSearch();
 
 //Spotify
 var spotifySearch = function (song) {
 
     var song = process.argv.slice(3).join(" ")
    
-    spotify.search({type: "track", query: song, limit: 1}, function(err, data) {
+    spotify.search({type: "track", query: song, limit: 1}, function(err, response) {
         if (err) {
           return console.log('Error occurred: ' + err);
         }
 
-        var jsonData = (data.tracks.items[0])
+        var jsonData = (response.tracks.items[0])
         var songName = jsonData.name
         var artistsName = jsonData.artists[0].name
         var albumName = jsonData.album.name
@@ -81,5 +81,48 @@ var spotifySearch = function (song) {
 }
 
 var song = new spotifySearch();
+
+//OMDB API
+var movieSearch = function (movie) {
+
+    var movie = process.argv.slice(3).join(" ")
+    var URL = "http://www.omdbapi.com/?apikey=trilogy&t=" + movie
+
+    axios.get(URL).then(function (response) {
+       
+        var jsonData = response.data
+
+        var movieTitle = jsonData.Title
+        var movieYear = jsonData.Released
+        var movieIMDB = jsonData.Ratings[0].Value
+        var movieRotten = jsonData.Ratings[1].Value
+        var movieCountry = jsonData.Country
+        var movieLanguage = jsonData.Language
+        var moviePlot = jsonData.Plot
+        var movieActors = jsonData.Actors
+
+        var movieData = [
+            "Title: " + movieTitle,
+            "Year Released: " + movieYear,
+            "IMDB Rating: " + movieIMDB,
+            "Rotten Tomatoes Rating: " + movieRotten,
+            "Country/ies: " + movieCountry,
+            "Language: " + movieLanguage,
+            "Plot: " + moviePlot,
+            "Cast: " + movieActors
+        ].join("\n\n")
+
+        console.log(movieData)
+
+        fs.appendFile("random.txt", movieData + divider, function(err) {
+            if (err) throw err
+        })
+    })
+
+
+}
+
+var movie = new movieSearch();
+
 
 
