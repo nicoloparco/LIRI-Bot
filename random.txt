@@ -2,488 +2,276 @@ spotify-this-song,"I Want it That Way"
 
 
 
-Artist Name: undefined
+Song Name: When the Levee Breaks - Remastered
 
-Event Number: 0
+Artist Name: Led Zeppelin
 
-Venue Name: STAR LOUNGE
+Album Name: Led Zeppelin IV (Deluxe Edition)
 
-Venue City: 東京都
-
-Venue Country: 日本
-
-Event Date and Time: 2019-11-23T00:30:00-05:00
+Spotify Link:  https://p.scdn.co/mp3-preview/b9c45ab3f67e56f3cbd45b087fb52787a1175c22?cid=7ca3997dc665487684259d618756cd68
 ------------------------------------------------------------
 
-Title: The Shining
+Title: Layer Cake
 
-Year Released: 13 Jun 1980
+Year Released: 03 Jun 2005
 
-IMDB Rating: 8.4/10
+IMDB Rating: 7.3/10
 
-Rotten Tomatoes Rating: 85%
+Rotten Tomatoes Rating: 80%
 
-Country/ies: UK, USA
+Country/ies: UK
 
-Language: English
+Language: English, Romanian
 
-Plot: A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.
+Plot: A successful cocaine dealer gets two tough assignments from his boss on the eve of his planned early retirement.
 
-Cast: Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers
-------------------------------------------------------------
-
-Song Name: Beautiful Crazy
-
-Artist Name: Luke Combs
-
-Album Name: This One's for You Too (Deluxe Edition)
-
-Spotify Link:  https://p.scdn.co/mp3-preview/46f30246879a353edb15e19f91eb63376053cace?cid=7ca3997dc665487684259d618756cd68
-------------------------------------------------------------
-
-Title: Mr. Nobody
-
-Year Released: 26 Sep 2013
-
-IMDB Rating: 7.8/10
-
-Rotten Tomatoes Rating: 67%
-
-Country/ies: Belgium, Germany, Canada, France, USA, UK
-
-Language: English, Mohawk
-
-Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
-
-Cast: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
-------------------------------------------------------------
-
-Artist Name: undefined
-
-Event Number: 0
-
-Venue Name: STAR LOUNGE
-
-Venue City: 東京都
-
-Venue Country: 日本
-
-Event Date and Time: 2019-11-23T00:30:00-05:00
+Cast: Daniel Craig, Tom Hardy, Jamie Foreman, Sally Hawkins
 ------------------------------------------------------------
 
 Artist Name: 50 cent
 
 Event Number: 0
 
-Venue Name: HBF Park
+Venue Name: Esplanade du Parc olympique
 
-Venue City: Perth
+Venue City: Montréal
 
-Venue Country: Australia
+Venue Country: Canada
 
-Event Date and Time: 2019-11-08T15:30:00-05:00
+Event Date and Time: 2020-05-16T19:00:00-04:00
 ------------------------------------------------------------
 
-Artist Name: 50 cent
+Artist Name: ozzy osbourne
+
+Event Number: 0
+
+Venue Name: Utilita Arena
+
+Venue City: Newcastle Upon Tyne
+
+Venue Country: United Kingdom
+
+Event Date and Time: 2020-10-23T19:00:00-04:00
+------------------------------------------------------------
+
+Artist Name: ozzy osbourne
 
 Event Number: 4
 
-Venue Name: GIANTS Stadium
+Venue Name: Manchester Arena
 
-Venue City: Sydney Olympic Park
+Venue City: Manchester
 
-Venue Country: Australia
+Venue Country: United Kingdom
 
-Event Date and Time: 2019-11-16T16:00:00-05:00
+Event Date and Time: 2020-11-02T19:00:00-05:00
 ------------------------------------------------------------
 
-Artist Name: 50 cent
+Artist Name: ozzy osbourne
 
 Event Number: 5
 
-Venue Name: Western Springs Stadium
+Venue Name: 3Arena
 
-Venue City: Auckland
+Venue City: Dublin
 
-Venue Country: New Zealand
+Venue Country: Ireland
 
-Event Date and Time: 2019-11-17T16:00:00-05:00
+Event Date and Time: 2020-11-05T19:00:00-05:00
 ------------------------------------------------------------
 
-Artist Name: 50 cent
-
-Event Number: 3
-
-Venue Name: Brisbane Showgrounds
-
-Venue City: Bowen Hills
-
-Venue Country: Australia
-
-Event Date and Time: 2019-11-15T15:30:00-05:00
-------------------------------------------------------------
-
-Artist Name: 50 cent
-
-Event Number: 1
-
-Venue Name: Marvel Stadium
-
-Venue City: Docklands
-
-Venue Country: Australia
-
-Event Date and Time: 2019-11-09T16:00:00-05:00
-------------------------------------------------------------
-
-Artist Name: 50 cent
-
-Event Number: 2
-
-Venue Name: Adelaide Showground
-
-Venue City: Wayville
-
-Venue Country: Australia
-
-Event Date and Time: 2019-11-10T15:00:00-05:00
-------------------------------------------------------------
-
-Artist Name: 50 cent
-
-Event Number: 0
-
-Venue Name: HBF Park
-
-Venue City: Perth
-
-Venue Country: Australia
-
-Event Date and Time: 2019-11-08T15:30:00-05:00
-------------------------------------------------------------
-
-Artist Name: 50 cent
-
-Event Number: 4
-
-Venue Name: GIANTS Stadium
-
-Venue City: Sydney Olympic Park
-
-Venue Country: Australia
-
-Event Date and Time: 2019-11-16T16:00:00-05:00
-------------------------------------------------------------
-
-Artist Name: 50 cent
-
-Event Number: 5
-
-Venue Name: Western Springs Stadium
-
-Venue City: Auckland
-
-Venue Country: New Zealand
-
-Event Date and Time: 2019-11-17T16:00:00-05:00
-------------------------------------------------------------
-
-Artist Name: 50 cent
-
-Event Number: 2
-
-Venue Name: Adelaide Showground
-
-Venue City: Wayville
-
-Venue Country: Australia
-
-Event Date and Time: 2019-11-10T15:00:00-05:00
-------------------------------------------------------------
-
-Artist Name: 50 cent
-
-Event Number: 3
-
-Venue Name: Brisbane Showgrounds
-
-Venue City: Bowen Hills
-
-Venue Country: Australia
-
-Event Date and Time: 2019-11-15T15:30:00-05:00
-------------------------------------------------------------
-
-Artist Name: 50 cent
-
-Event Number: 1
-
-Venue Name: Marvel Stadium
-
-Venue City: Docklands
-
-Venue Country: Australia
-
-Event Date and Time: 2019-11-09T16:00:00-05:00
-------------------------------------------------------------
-
-Artist Name: umphreys mcgee
-
-Event Number: 0
-
-Venue Name: The Foundry at The Fillmore
-
-Venue City: Philadelphia
-
-Venue Country: United States
-
-Event Date and Time: 2019-11-01T19:00:00-04:00
-------------------------------------------------------------
-
-Artist Name: umphreys mcgee
-
-Event Number: 4
-
-Venue Name: Fillmore Auditorium
-
-Venue City: Denver
-
-Venue Country: United States
-
-Event Date and Time: 2019-12-28T19:00:00-05:00
-------------------------------------------------------------
-
-Artist Name: umphreys mcgee
-
-Event Number: 5
-
-Venue Name: Fillmore Auditorium
-
-Venue City: Denver
-
-Venue Country: United States
-
-Event Date and Time: 2019-12-30T19:00:00-05:00
-------------------------------------------------------------
-
-Artist Name: umphreys mcgee
+Artist Name: ozzy osbourne
 
 Event Number: 6
 
-Venue Name: Fillmore Auditorium
+Venue Name: Motorpoint Arena Nottingham
 
-Venue City: Denver
+Venue City: Nottingham
 
-Venue Country: United States
+Venue Country: United Kingdom
 
-Event Date and Time: 2019-12-31T19:00:00-05:00
+Event Date and Time: 2020-11-08T19:00:00-05:00
 ------------------------------------------------------------
 
-Artist Name: umphreys mcgee
-
-Event Number: 7
-
-Venue Name: Sony Hall
-
-Venue City: New York
-
-Venue Country: United States
-
-Event Date and Time: 2020-01-17T21:00:00-05:00
-------------------------------------------------------------
-
-Artist Name: umphreys mcgee
-
-Event Number: 8
-
-Venue Name: Beacon Theatre
-
-Venue City: New York
-
-Venue Country: United States
-
-Event Date and Time: 2020-01-18T21:00:00-05:00
-------------------------------------------------------------
-
-Artist Name: umphreys mcgee
-
-Event Number: 9
-
-Venue Name: Penn's Peak
-
-Venue City: Jim Thorpe
-
-Venue Country: United States
-
-Event Date and Time: 2020-01-23T19:00:00-05:00
-------------------------------------------------------------
-
-Artist Name: umphreys mcgee
-
-Event Number: 10
-
-Venue Name: Stage AE
-
-Venue City: Pittsburgh
-
-Venue Country: United States
-
-Event Date and Time: 2020-01-24T18:00:00-05:00
-------------------------------------------------------------
-
-Artist Name: umphreys mcgee
-
-Event Number: 11
-
-Venue Name: Express Live!
-
-Venue City: Columbus
-
-Venue Country: United States
-
-Event Date and Time: 2020-01-25T18:00:00-05:00
-------------------------------------------------------------
-
-Artist Name: umphreys mcgee
-
-Event Number: 12
-
-Venue Name: The Clyde theater
-
-Venue City: Fort Wayne
-
-Venue Country: United States
-
-Event Date and Time: 2020-01-29T19:00:00-05:00
-------------------------------------------------------------
-
-Artist Name: umphreys mcgee
-
-Event Number: 13
-
-Venue Name: MGM Northfield Park - Center Stage (formerly Hard Rock Live)
-
-Venue City: Northfield
-
-Venue Country: United States
-
-Event Date and Time: 2020-01-30T19:00:00-05:00
-------------------------------------------------------------
-
-Artist Name: umphreys mcgee
-
-Event Number: 14
-
-Venue Name: The Fillmore Detroit presented by Cricket Wireless
-
-Venue City: Detroit
-
-Venue Country: United States
-
-Event Date and Time: 2020-01-31T18:00:00-05:00
-------------------------------------------------------------
-
-Artist Name: umphreys mcgee
-
-Event Number: 15
-
-Venue Name: The Fillmore Detroit presented by Cricket Wireless
-
-Venue City: Detroit
-
-Venue Country: United States
-
-Event Date and Time: 2020-02-01T18:00:00-05:00
-------------------------------------------------------------
-
-Artist Name: umphreys mcgee
-
-Event Number: 16
-
-Venue Name: Soundstage at Graceland
-
-Venue City: Memphis
-
-Venue Country: United States
-
-Event Date and Time: 2020-02-12T19:00:00-05:00
-------------------------------------------------------------
-
-Artist Name: umphreys mcgee
-
-Event Number: 17
-
-Venue Name: The Caverns
-
-Venue City: Pelham
-
-Venue Country: United States
-
-Event Date and Time: 2020-02-13T20:00:00-05:00
-------------------------------------------------------------
-
-Artist Name: umphreys mcgee
-
-Event Number: 18
-
-Venue Name: U.S. Cellular Center Asheville
-
-Venue City: Asheville
-
-Venue Country: United States
-
-Event Date and Time: 2020-02-14T18:30:00-05:00
-------------------------------------------------------------
-
-Artist Name: umphreys mcgee
-
-Event Number: 19
-
-Venue Name: U.S. Cellular Center Asheville
-
-Venue City: Asheville
-
-Venue Country: United States
-
-Event Date and Time: 2020-02-15T18:30:00-05:00
-------------------------------------------------------------
-
-Artist Name: umphreys mcgee
+Artist Name: ozzy osbourne
 
 Event Number: 3
 
-Venue Name: Fillmore Auditorium
+Venue Name: Resorts World Arena
 
-Venue City: Denver
+Venue City: Birmingham
 
-Venue Country: United States
+Venue Country: United Kingdom
 
-Event Date and Time: 2019-12-27T19:00:00-05:00
+Event Date and Time: 2020-10-31T19:00:00-04:00
 ------------------------------------------------------------
 
-Artist Name: umphreys mcgee
+Artist Name: ozzy osbourne
+
+Event Number: 8
+
+Venue Name: O2 Arena
+
+Venue City: Prague
+
+Venue Country: Czech Republic
+
+Event Date and Time: 2020-11-13T19:30:00-05:00
+------------------------------------------------------------
+
+Artist Name: ozzy osbourne
+
+Event Number: 9
+
+Venue Name: Unipol Arena
+
+Venue City: Casalecchio Di Reno
+
+Venue Country: Italy
+
+Event Date and Time: 2020-11-19T19:00:00-05:00
+------------------------------------------------------------
+
+Artist Name: ozzy osbourne
+
+Event Number: 10
+
+Venue Name: WiZink Center
+
+Venue City: Madrid
+
+Venue Country: Spain
+
+Event Date and Time: 2020-11-22T19:00:00-05:00
+------------------------------------------------------------
+
+Artist Name: ozzy osbourne
+
+Event Number: 11
+
+Venue Name: Hallenstadion
+
+Venue City: Zürich
+
+Venue Country: Switzerland
+
+Event Date and Time: 2020-11-24T19:00:00-05:00
+------------------------------------------------------------
+
+Artist Name: ozzy osbourne
+
+Event Number: 12
+
+Venue Name: Kleine Olympiahalle München
+
+Venue City: München
+
+Venue Country: Germany
+
+Event Date and Time: 2020-11-26T19:00:00-05:00
+------------------------------------------------------------
+
+Artist Name: ozzy osbourne
+
+Event Number: 13
+
+Venue Name: SAP Arena
+
+Venue City: Marnitz
+
+Venue Country: Germany
+
+Event Date and Time: 2020-11-28T19:00:00-05:00
+------------------------------------------------------------
+
+Artist Name: ozzy osbourne
+
+Event Number: 14
+
+Venue Name: Parkhaus der Mercedes-Benz-Arena
+
+Venue City: Berlin
+
+Venue Country: Germany
+
+Event Date and Time: 2020-11-30T19:00:00-05:00
+------------------------------------------------------------
+
+Artist Name: ozzy osbourne
+
+Event Number: 15
+
+Venue Name: Barclaycard Arena Hamburg
+
+Venue City: Hamburg
+
+Venue Country: Germany
+
+Event Date and Time: 2020-12-03T19:00:00-05:00
+------------------------------------------------------------
+
+Artist Name: ozzy osbourne
+
+Event Number: 7
+
+Venue Name: Westfalenpark Dortmund
+
+Venue City: Dudenhofen
+
+Venue Country: Germany
+
+Event Date and Time: 2020-11-11T19:00:00-05:00
+------------------------------------------------------------
+
+Artist Name: ozzy osbourne
+
+Event Number: 17
+
+Venue Name: Hartwall Arena
+
+Venue City: Heinävesi
+
+Venue Country: Finland
+
+Event Date and Time: 2020-12-07T19:00:00-05:00
+------------------------------------------------------------
+
+Artist Name: ozzy osbourne
 
 Event Number: 2
 
-Venue Name: The Woodlands Festival
+Venue Name: The O2
 
-Venue City: Charleston
+Venue City: London
 
-Venue Country: United States
+Venue Country: United Kingdom
 
-Event Date and Time: 2019-11-08T19:00:00-05:00
+Event Date and Time: 2020-10-28T19:00:00-04:00
 ------------------------------------------------------------
 
-Artist Name: umphreys mcgee
+Artist Name: ozzy osbourne
 
 Event Number: 1
 
-Venue Name: The Foundry at The Fillmore
+Venue Name: SSE Hydro
 
-Venue City: Philadelphia
+Venue City: Glasgow
 
-Venue Country: United States
+Venue Country: United Kingdom
 
-Event Date and Time: 2019-11-02T19:00:00-04:00
+Event Date and Time: 2020-10-25T19:00:00-04:00
+------------------------------------------------------------
+
+Artist Name: ozzy osbourne
+
+Event Number: 16
+
+Venue Name: Friends Arena
+
+Venue City: Råsunda
+
+Venue Country: Sweden
+
+Event Date and Time: 2020-12-05T19:00:00-05:00
 ------------------------------------------------------------
 
